@@ -89,3 +89,24 @@ public class WordCountRunner {
         }
     }
 }
+
+/*
+1.Project Structures --> Artifacts --> + ; add Jar from module with dependencies --> set the main class
+2.copy the META-INF folder to the src/main; choose the copy to the output dir.... META
+3. build artifact --> build
+4. build project
+5.get the jar file generated!
+
+running with:
+$ hadoop jar WordCount.jar ../../../input1.txt ../../../output
+
+checking result with :
+$ cd output/
+$cat part-r-00000
+#outputs:
+#Presto	1
+#hello	2
+#summer	1
+#world	2
+
+ */
