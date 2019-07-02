@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19d5fc91-1316-4817-8000-a67c97519b29" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-assemblies/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-openstack/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-build-tools/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-common/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-rumen/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-kms/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-nfs/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-dist/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-auth-examples/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-fs2img/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-datajoin/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-check-invariants/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-aws/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-api/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-nativetask/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-auth/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-extras/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-examples/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-minikdc/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase-tests/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-distcp/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-pipes/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-cloud-storage-project/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-client/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-archives/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-runtime/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-streaming/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-httpfs/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-integration-tests/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-uploader/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-core/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-aliyun/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-project/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-resourceestimator/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-check-test-invariants/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-router/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-archive-logs/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-common/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-ui/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-azure/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-azure-datalake/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-minicluster/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-project-dist/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-kafka/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-sharedcachemanager/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-annotations/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-native-client/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-api/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-rbf/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-client/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timeline-pluginstorage/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-minicluster/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-sls/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-registry/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-maven-plugins/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-gridmix/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-nfs/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-cloud-storage-project/hadoop-cloud-storage/target/" />
+    <ignored path="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-tools-dist/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/WordCountRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="246">
+              <caret line="73" column="37" lean-forward="true" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/WordCount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/WordCountRunner.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="338" />
+    <option name="y" value="23" />
+    <option name="width" value="936" />
+    <option name="height" value="765" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="WordCount" type="b2602c69:ProjectViewProjectNode" />
+              <item name="WordCount" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WordCountRunner">
+    <configuration name="WC-PREST" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="WordCount" />
+      <module name="WordCount" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCountRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WordCountRunner" />
+      <module name="WordCount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WC-PREST" />
+      <item itemvalue="Application.WordCountRunner" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCountRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19d5fc91-1316-4817-8000-a67c97519b29" name="Default Changelist" comment="" />
+      <created>1562022540419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562022540419</updated>
+      <workItem from="1562022541978" duration="3087000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3087000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="344" y="32" width="936" height="765" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Web" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3456376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32986626" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.32986626" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/WordCountRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="73" column="37" lean-forward="true" selection-start-line="73" selection-start-column="37" selection-end-line="73" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11.0.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>WordCount</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

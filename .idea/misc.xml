@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-auth-examples" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-assemblies/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-build-tools/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-api/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-check-invariants/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-check-test-invariants/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-integration-tests/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-minicluster/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client-runtime/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/hadoop-client/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-client-modules/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-cloud-storage-project/hadoop-cloud-storage/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-cloud-storage-project/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-annotations/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-auth-examples/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-auth/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-common/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-kms/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-minikdc/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/hadoop-nfs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-common-project/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-dist/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-client/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-httpfs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-native-client/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-nfs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs-rbf/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/hadoop-hdfs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-hdfs-project/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-app/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs-plugins/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-hs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-jobclient/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-nativetask/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-shuffle/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-uploader/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-client/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/hadoop-mapreduce-examples/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-mapreduce-project/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-maven-plugins/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-minicluster/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-project-dist/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-project/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-aliyun/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-archive-logs/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-archives/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-aws/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-azure-datalake/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-azure/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-datajoin/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-distcp/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-extras/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-fs2img/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-gridmix/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-kafka/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-openstack/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-pipes/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-resourceestimator/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-rumen/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-sls/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-streaming/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/hadoop-tools-dist/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-tools/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-api/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-distributedshell/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-applications-unmanaged-am-launcher/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-api/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/hadoop-yarn-services-core/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/hadoop-yarn-services/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-applications/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-client/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-registry/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-applicationhistoryservice/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-common/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-nodemanager/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-resourcemanager/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-router/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-sharedcachemanager/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-tests/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timeline-pluginstorage/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase-tests/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-client/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-common/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/hadoop-yarn-server-timelineservice-hbase-server-1/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/hadoop-yarn-server-timelineservice-hbase-server/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice-hbase/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-timelineservice/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/hadoop-yarn-server-web-proxy/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-server/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-site/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-ui/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/hadoop-yarn/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/hadoop-yarn-project/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Tools/hadoop-3.1.2-src/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11.0.2" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
